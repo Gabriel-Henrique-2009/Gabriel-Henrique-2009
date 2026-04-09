@@ -16,8 +16,8 @@
 ### Estatísticas e Linguagens
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Henrique-2009&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Henrique-2009&layout=compact&langs_count=7&theme=dark" />
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gabriel-Henrique-2009&theme=default&cache_seconds=1800"/> 
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gabriel-Henrique-2009&theme=default&cache_seconds=1800"/>
 </p>
 
 ---
