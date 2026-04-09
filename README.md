@@ -2,23 +2,15 @@
 
 ### Tecnologias que Uso
 
-<div style="display: inline_block">
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Sass" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-</div>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
 ### Estatísticas e Linguagens
 
-<p align="left">
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gabriel-Henrique-2009&theme=default&cache_seconds=1800"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Henrique-2009&langs_count=8&theme=dark&hide_title=false&include_all_commits=true" />
-</p>
+[![Status do GitHub](https://github-readme-stats.vercel.app/api?username=Gabriel-Henrique-2009&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/Gabriel-Henrique-2009)
+
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Henrique-2009&theme=dark&include_all_commits=true&layout=compact)](https://github.com/Gabriel-Henrique-2009)
 
 ---
 
