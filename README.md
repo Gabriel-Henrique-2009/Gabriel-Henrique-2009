@@ -17,7 +17,7 @@
 
 <p align="left">
   <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gabriel-Henrique-2009&theme=default&cache_seconds=1800"/> 
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gabriel-Henrique-2009&theme=default&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Henrique-2009&langs_count=8&theme=dark&hide_title=false&include_all_commits=true" />
 </p>
 
 ---
