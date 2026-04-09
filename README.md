@@ -15,8 +15,8 @@
 
 <div align="left">
   <a href="https://github.com/Eduardo23Ribeiro">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo23Ribeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo23Ribeiro&layout=compact&langs_count=7&theme=dark" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Henrique-2009&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Henrique-2009&layout=compact&langs_count=7&theme=dark" />
   </a>
 </div>
 
